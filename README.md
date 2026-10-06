@@ -10,14 +10,7 @@ The main objective is to identify the factors contributing to profit and losses,
 
 ## 🎯 Business Questions
 
-This analysis aims to answer several key questions:
-
-1. How do different discount levels affect profitability?
-2. Which product categories and sub-categories generate the highest and lowest profit?
-3. Which customer segments contribute the most to sales and profit?
-4. Which regions have the strongest and weakest profit margins?
-5. How do sales and profitability change over time?
-6. Which areas should the business prioritize to improve profitability?
+How can the company maintain sales growth while improving profitability through more effective management of discounts, products, and regions?
 
 ---
 
@@ -37,11 +30,10 @@ Before analysis, the dataset was cleaned and prepared using Python.
 
 The process included:
 
-- Checking missing values
-- Checking duplicate records
-- Validating data types
-- Checking numerical and categorical distributions
-- Detecting potential outliers
+- No missing values found
+- No Duplicate Records Found
+- Validating data types, str to Date Tyme on date column
+- Checking numerical and categorical distributions & outliers, outliers detected but not dropped
 - Preparing the cleaned dataset for Power BI analysis
 
 ---
@@ -71,48 +63,14 @@ A dedicated **Calendar table** was also created to support time intelligence ana
 
 ### 1. Discount Impact on Profitability
 
-Discount level has a significant relationship with profitability.
-
-- Products with **0%, 10%, 15%, and 20% discounts** still generated positive aggregate profit margins.
-- Discount levels of **30% and above** were associated with negative profitability.
-- This indicates that aggressive discounting can increase sales volume while simultaneously reducing overall profitability.
-
 ### 2. Category Performance
-
-Among the major product categories:
-
-- **Technology** and **Office Supplies** generated relatively strong profit margins.
-- **Furniture** had a significantly lower profit margin of approximately **2.5%**.
-- Technology and Office Supplies achieved margins of approximately **17%**.
-
-This suggests that high sales do not necessarily translate into high profitability.
 
 ### 3. Sub-Category Performance
 
-Several sub-categories require particular attention:
-
-- **Tables** generated overall losses.
-- **Bookcases** also generated overall losses.
-
-These sub-categories should be reviewed in terms of pricing, discount strategy, product cost, and operational expenses.
-
 ### 4. Regional Performance
-
-Profitability also varied across regions.
-
-- **West** showed the strongest overall profit margin.
-- **Central** recorded the weakest profitability.
-
-Regional differences may indicate opportunities to optimize pricing, product mix, and discount strategies.
 
 ### 5. Customer Segment
 
-- **Consumer** contributed the largest sales volume.
-- **Home Office** generated the highest profit margin.
-
-This indicates that the segment generating the most revenue is not necessarily the segment generating the most efficient profit.
-
----
 
 ## 💡 Business Recommendations
 
@@ -139,15 +97,9 @@ Based on the analysis:
 
 The Power BI dashboard was designed to monitor:
 
-- Sales performance
-- Profit performance
-- Profit margin
-- Discount impact
-- Category & sub-category performance
-- Regional performance
-- Customer segment performance
-- Year-over-Year sales and profit trends
-
+- Executive Overview
+- Profitability and Discount Analysis
+- Product and Rootcouse analysis
 ---
 
 ## 🚀 Conclusion
@@ -163,6 +115,9 @@ By controlling discount levels, improving the profitability of underperforming p
 ## 👤 Author
 
 **Rabata Bayu**
+
+rabatabayu.work@gmail.com | 081219247955 
+Linked.in : [Aloysius Rabata Bayu Chrissanto](https://www.linkedin.com/in/aloysius-rabata-bayu-chrissanto/)
 
 Data Analytics Portfolio Project  
 Python | SQL | Power BI | Data Visualization
