@@ -63,6 +63,16 @@ A dedicated **Calendar table** was also created to support time intelligence ana
 
 ---
 
+## 📈 Dashboard
+
+The Power BI dashboard was designed to monitor:
+
+- Executive Overview
+- Profitability and Discount Analysis
+- Product and Rootcouse analysis
+
+---
+
 ## 💡 Business Recommendations
 
 Based on the analysis:
@@ -82,15 +92,6 @@ Based on the analysis:
 5. **Balance sales growth and profitability**  
    Business decisions should not focus only on increasing sales. Profit margin should also be monitored to ensure sustainable growth.
 
----
-
-## 📈 Dashboard
-
-The Power BI dashboard was designed to monitor:
-
-- Executive Overview
-- Profitability and Discount Analysis
-- Product and Rootcouse analysis
 ---
 
 ## 🚀 Conclusion
