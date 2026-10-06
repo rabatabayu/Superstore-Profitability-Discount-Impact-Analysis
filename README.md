@@ -74,6 +74,16 @@ The Power BI dashboard was designed to monitor:
 
 ---
 
+## 🚀 Conclusion
+
+The analysis shows that **higher sales do not always result in higher profitability**.
+
+Discount strategy is one of the key factors affecting Superstore's profit performance. Discounts of **30% or more** are associated with negative aggregate margins, while certain product sub-categories such as **Tables and Bookcases** generate overall losses.
+
+By controlling discount levels, improving the profitability of underperforming products, and focusing on profitable customer and regional segments, the business can pursue more sustainable growth.
+
+---
+
 ## 💡 Business Recommendations
 
 Based on the analysis:
@@ -92,16 +102,6 @@ Based on the analysis:
 
 5. **Balance sales growth and profitability**  
    Business decisions should not focus only on increasing sales. Profit margin should also be monitored to ensure sustainable growth.
-
----
-
-## 🚀 Conclusion
-
-The analysis shows that **higher sales do not always result in higher profitability**.
-
-Discount strategy is one of the key factors affecting Superstore's profit performance. Discounts of **30% or more** are associated with negative aggregate margins, while certain product sub-categories such as **Tables and Bookcases** generate overall losses.
-
-By controlling discount levels, improving the profitability of underperforming products, and focusing on profitable customer and regional segments, the business can pursue more sustainable growth.
 
 ---
 
