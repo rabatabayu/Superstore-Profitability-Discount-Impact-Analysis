@@ -59,19 +59,6 @@ A dedicated **Calendar table** was also created to support time intelligence ana
 
 ---
 
-## 🔍 Key Insights
-
-### 1. Discount Impact on Profitability
-
-### 2. Category Performance
-
-### 3. Sub-Category Performance
-
-### 4. Regional Performance
-
-### 5. Customer Segment
-
-
 ## 💡 Business Recommendations
 
 Based on the analysis:
