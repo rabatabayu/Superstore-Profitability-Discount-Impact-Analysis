@@ -150,23 +150,6 @@ The Power BI dashboard was designed to monitor:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-data-analyst-portfolio/
-│
-├── portfolio-project/
-│   └── superstore/
-│       ├── dataset/
-│       ├── python/
-│       ├── power-bi/
-│       └── images/
-│
-└── README.md
-```
-
----
-
 ## 🚀 Conclusion
 
 The analysis shows that **higher sales do not always result in higher profitability**.
